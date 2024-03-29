@@ -1,0 +1,16 @@
+#expense_container, #expense_container>h2{
+    margin-bottom: 1rem;
+    font-size: 30px;
+}
+
+#expense_container h2{
+    font-weight:500;
+    margin-left: 160px;
+}
+
+#expense_container p{
+    font-weight:500;
+    margin-left: 160px;
+    color: rgb(13, 90, 25);
+    margin-top: 10px;
+}
